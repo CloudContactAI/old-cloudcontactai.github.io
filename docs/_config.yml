@@ -31,7 +31,6 @@ domain: cloudcontactai.github.io
 markdown: kramdown
 
 # Build settings
-theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
