@@ -4,4 +4,4 @@
 
 layout: home
 ---
-[First SMS Campaign](/docs/first-sms-campaign)
+[First SMS Campaign](/first-sms-campaign)
