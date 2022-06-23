@@ -21,7 +21,7 @@
 title: CloudContactAI
 email: contact@cloudcontactai.com
 repository: CloudContactAI/cloudcontactai.github.io
-description: >- # this means to ignore newlines until "baseurl:"
+description:  # this means to ignore newlines until "baseurl:"
   Documentation for CloudContactAI, https://www.cloudcontactai.com
 baseurl: /docs
 url: https://cloudcontactai.github.io
