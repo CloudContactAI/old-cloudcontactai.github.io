@@ -1,1 +1,1 @@
-[First SMS Campaign](/docs/first-sms-campaign)
+[First SMS Campaign]({{site.baseurl}}/first-sms-campaign)
